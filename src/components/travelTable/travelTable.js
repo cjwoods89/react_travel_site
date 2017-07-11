@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import './Table.css';
+import './travelTable.css';
 
-class Table extends Component {
+// import { Table } from 'react-bootstrap';
+
+class TravelTable extends Component {
   render() {
     return (
         <tr>
@@ -15,5 +17,5 @@ class Table extends Component {
   }
 }
 
-export default Table;
+export default TravelTable;
 

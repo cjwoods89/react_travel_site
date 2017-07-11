@@ -1,17 +1,5 @@
-.jumbotron {
-    padding: 0;
-    width: 98%;
-    margin: -10px auto 0 auto;
-}
-
-.container-fluid {
-    padding: 0;
-}
-
 .carousel-inner > .item > img {
     margin: 0 auto;
     height: 500px;
     width: 100%;
-    background-size: cover;
 }
-

@@ -1,12 +1,16 @@
-.navbar-right {
-    padding-right: 20px;
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 0px !important;
 }
 
-.footer p, .footer a{
-    color: white;
+.navbar-text {
+   color: white !important;
 }
 
-.footer a:hover {
-    text-decoration: none;
-    color: gray;
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,black 0,black 100%) !important; /* override background image gradient w/ flat color */
 }

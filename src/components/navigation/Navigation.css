@@ -1,3 +1,13 @@
 nav li a{
     color:white !important;
 }
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand a {
+  text-decoration: none;
+  color: white !important;
+}

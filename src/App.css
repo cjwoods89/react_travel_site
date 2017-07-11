@@ -1,7 +1,6 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 25px;
-  margin-right: -15px;
   margin-top: -5px;
 }
 
@@ -23,7 +22,20 @@
 }
 
 .panel {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.panel-heading{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.panel h1 {
+  text-align: center;
+  font-size: 24px;
 }
 
 @keyframes App-logo-spin {
