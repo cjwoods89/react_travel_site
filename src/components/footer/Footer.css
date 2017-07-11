@@ -1,0 +1,12 @@
+.navbar-right {
+    padding-right: 20px;
+}
+
+.footer p, .footer a{
+    color: white;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: gray;
+}
